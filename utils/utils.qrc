@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/logout.png</file>
+    <file>icons/logout_h.png</file>
+    <file>icons/add.png</file>
+    <file>icons/add_h.png</file>
+    <file>icons/camera.png</file>
+    <file>icons/camera_h.png</file>
+    <file>icons/categories.png</file>
+    <file>icons/categories_h.png</file>
+    <file>icons/close.png</file>
+    <file>icons/close_h.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/copy_h.png</file>
+    <file>icons/correct.png</file>
+    <file>icons/correct_h.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/edit_h.png</file>
+    <file>icons/engrenage.png</file>
+    <file>icons/engrenage_h.png</file>
+    <file>icons/export.png</file>
+    <file>icons/export_h.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/folder_h.png</file>
+    <file>icons/home.png</file>
+    <file>icons/home_h.png</file>
+    <file>icons/images.png</file>
+    <file>icons/images_h.png</file>
+    <file>icons/infos.png</file>
+    <file>icons/infos_h.png</file>
+    <file>icons/minimise.png</file>
+    <file>icons/minimise_h.png</file>
+    <file>icons/modeling.png</file>
+    <file>icons/modeling_h.png</file>
+    <file>icons/paint_roller.png</file>
+    <file>icons/paint_roller_h.png</file>
+    <file>icons/photo.png</file>
+    <file>icons/photo_h.png</file>
+    <file>icons/play.png</file>
+    <file>icons/play_h.png</file>
+    <file>icons/slow_motion.png</file>
+    <file>icons/slow_motion_h.png</file>
+    <file>icons/sound.png</file>
+    <file>icons/sound_h.png</file>
+    <file>icons/trash.png</file>
+    <file>icons/trash_h.png</file>
+    <file>icons/user.png</file>
+    <file>icons/user_h.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>logo/logo.png</file>
+    <file>logo/logo_green.png</file>
+  </qresource>
+</RCC>
